@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="assets/Monocot-Banner.png" alt="Cambitronix Mark II Banner" width="100%">  
+  <img src="assets/Monocot-Banner.png" alt="Cambitronix Mark I Banner" width="100%">  
 </p>  🌿 Cambitronix Mark II
 
 Interactive Plant Anatomy Simulator

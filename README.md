@@ -1,84 +1,59 @@
-<p align="center">  
-  <img src="assets/Monocot-banner.png" alt="Cambitronix Mark I Banner" width="100%">  
-</p>  🌿 Cambitronix Mark I
+<p align="center">
+  <img src="assets/Monocot-banner.png" alt="Cambitronix Banner" width="100%">
+</p>
 
-Interactive Plant Anatomy Simulator
+# 🌿 Cambitronix
 
-An interactive HTML-based educational simulator for exploring the internal anatomy of monocot stems and roots through realistic transverse sections, tissue systems, and microscope-inspired visualizations.
+**Interactive Plant Anatomy Simulator**
 
-
----
-
-✨ Features
-
-Interactive Anatomy: Explore transverse sections (T.S.) of Monocot stem and monocot root.
-
-Tissue System Visualization: Understand Dermal, Ground, and Vascular tissue systems through intuitive color coding.
-
-Microscope-Inspired Graphics: High-quality botanical illustrations designed to resemble textbook and laboratory observations.
-
-Educational Learning: Built following NCERT Biology concepts with emphasis on biological accuracy.
-
-Interactive Interface: Click, explore, and visualize plant tissues in an engaging browser-based environment.
-
-Responsive Design: Optimized for desktop, tablet, and mobile devices.
-
-
+An interactive HTML-based educational simulator for exploring the internal anatomy of dicot stems and roots through realistic transverse sections, tissue systems, and microscope-inspired visualizations.
 
 ---
 
-🌱 Learning Objectives
+## ✨ Features
 
-Identify tissues in Monocot stem and root.
-
-Compare stem and root anatomy.
-
-Understand the organization of tissue systems.
-
-Visualize xylem and phloem arrangement.
-
-Strengthen practical understanding of plant anatomy.
-
-
+* **Interactive Anatomy:** Explore transverse sections (T.S.) of dicot stem and dicot root.
+* **Tissue System Visualization:** Understand Dermal, Ground, and Vascular tissue systems through intuitive color coding.
+* **Microscope-Inspired Graphics:** High-quality botanical illustrations designed to resemble textbook and laboratory observations.
+* **Educational Learning:** Built following NCERT Biology concepts with emphasis on biological accuracy.
+* **Interactive Interface:** Click, explore, and visualize plant tissues in an engaging browser-based environment.
+* **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
 
 ---
 
-🚀 Build & Hosting
+## 🌱 Learning Objectives
 
-Repository: GitHub
-
-Hosting: Github Pages
-
-Frontend: HTML, CSS & JavaScript
-
-
+* Identify tissues in dicot stem and root.
+* Compare stem and root anatomy.
+* Understand the organization of tissue systems.
+* Visualize xylem and phloem arrangement.
+* Strengthen practical understanding of plant anatomy.
 
 ---
 
-🛠️ Credits & Acknowledgments
+## 🚀 Build & Hosting
 
-Claude Sonnet 5.0 — Debugging, architecture, and implementation support.
-
-OpenAI — Base Image generation, Scientific validation, debugging, and logic refinement.
-
-
+* **Repository:** GitHub
+* **Hosting:** Github Pages
+* **Frontend:** HTML, CSS & JavaScript
 
 ---
 
-👤 Author
+## 🛠️ Credits & Acknowledgments
 
-Draven Ashcroft
-
-M.Sc. Ag. Entomology
-
-ASRB NET
-
-DIPS Chain of Institutions
-
-
+* **Claude Sonnet 5.0** — Debugging, architecture, and implementation support.
+* **OpenAI** — Base Image generation, Scientific validation, debugging, and logic refinement.
 
 ---
 
-📜 License
+## 👤 Author
 
-GPL-3.0
+**Draven Ashcroft**
+
+* M.Sc. Ag. Entomology
+* ASRB NET
+* DIPS Chain of Institutions
+
+---
+
+## 📜 License

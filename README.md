@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="assets/Repo-banner.png" alt="Cambitronix Mark II Banner" width="100%">  
+  <img src="assets/Dicot-Banner.png" alt="Cambitronix Mark II Banner" width="100%">  
 </p>  🌿 Cambitronix Mark II
 
 Interactive Plant Anatomy Simulator
